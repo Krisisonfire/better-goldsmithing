@@ -7,3 +7,6 @@ build
 nbactions.xml
 nb-configuration.xml
 nbproject/
+
+# Local Claude Code project instructions (loads AGENTS.md); not for the public repo
+CLAUDE.md
